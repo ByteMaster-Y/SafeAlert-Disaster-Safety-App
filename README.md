@@ -4,7 +4,7 @@
 재난은 언제 어디서든 발생할 수 있으며, 빠른 대처와 정확한 정보 전달이 국민의 안전을 지키는 핵심 요소입니다.  
 SafeAlert는 기존 재난 안전 앱들의 한계를 보완하고, **AI 기반 예측 및 실시간 대피소 안내** 기능을 제공하는 통합 재난안전정보 앱입니다.  
 
-이 프로젝트는 **원저자의(프로젝트 창안자) 아이디어를 바탕으로 설계 및 개발되었으며**, 해당 아이디어를 기반으로 KAICTS (Published in Korea Artificial-Intelligence Convergence Technology Society Conference Spring 2024) 학회에서 발표되었습니다.
+이 프로젝트는 **원저자의(프로젝트 창안자) 아이디어를 바탕으로 설계 및 개발되었으며**, 해당 아이디어를 기반으로 **KAICTS (Published in Korea Artificial-Intelligence Convergence Technology Society Conference Spring 2024)** 학회에서 발표되었습니다.
 
 ---
 
@@ -33,7 +33,7 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
 ---
 
 ## System Architecture
-![System Architecture](docs/images/system_architecture.png)  
+<img width="1160" height="646" alt="Image" src="https://github.com/user-attachments/assets/42dc782a-a648-4034-9262-d0bccc9b22f9" />
 *(재난문자 → AI 분석 → 대피소 추천의 흐름 구조)*
 
 ---
@@ -45,6 +45,12 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
   - 반려동물 대피장소
   - 응급/장애인 대피장소
 - **지도 기반 안내**: 현재 위치에서 가장 가까운 안전 대피소 제공
+
+<img width="1019" height="569" alt="Image" src="https://github.com/user-attachments/assets/92d95621-6ced-42c5-bafe-3094f35f2e8d" />
+
+<img width="1023" height="575" alt="Image" src="https://github.com/user-attachments/assets/d8749f00-6057-421a-97e4-aca40462ba41" />
+
+<img width="1021" height="572" alt="Image" src="https://github.com/user-attachments/assets/6a336263-927b-4cea-b71f-973ba89b5b51" />
 
 ---
 
@@ -63,6 +69,8 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
 - 실제 모바일 앱 프로토타입 제작 (Android/iOS)  
 - 실시간 인구밀도 수집 및 예측 기능 고도화  
 - 사용자 피드백 & 커뮤니티 기능 추가  
+
+<img width="1017" height="569" alt="Image" src="https://github.com/user-attachments/assets/5fb48b99-1847-4d3b-af04-8d6ae40a5d67" />
 
 ---
 
