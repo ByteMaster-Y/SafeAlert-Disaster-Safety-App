@@ -33,8 +33,12 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
 ---
 
 ## System Architecture
+```
+(재난문자 → AI 분석 → 대피소 추천의 흐름 구조)
+```
+
 <img width="1160" height="646" alt="Image" src="https://github.com/user-attachments/assets/42dc782a-a648-4034-9262-d0bccc9b22f9" />
-*(재난문자 → AI 분석 → 대피소 추천의 흐름 구조)*
+
 
 ---
 
