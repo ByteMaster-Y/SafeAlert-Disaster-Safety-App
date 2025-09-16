@@ -1,5 +1,9 @@
 # SafeAlert: AI-based Disaster Safety Information App
 
+<img width="751" height="739" alt="Image" src="https://github.com/user-attachments/assets/46b1a070-92a7-4c28-9f60-c51e2eddd660" />
+
+---
+
 ## Overview
 재난은 언제 어디서든 발생할 수 있으며, 빠른 대처와 정확한 정보 전달이 국민의 안전을 지키는 핵심 요소입니다.  
 SafeAlert는 기존 재난 안전 앱들의 한계를 보완하고, **AI 기반 예측 및 실시간 대피소 안내** 기능을 제공하는 통합 재난안전정보 앱입니다.  
