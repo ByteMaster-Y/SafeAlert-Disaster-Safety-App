@@ -83,7 +83,7 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
 ---
 
 ## Contributors
-- 임예슬 (Project Leader, AI Model Design, App Design)  
+- 임예슬 (Project Leader, AI Model Design, App Design, Idea Contributor)  
 - 이지현 (App Design)  
 - 고훈준 (Research Paper Writing, Academic Publication)  
 - 조선문 (Research Paper Writing, Academic Publication)  
