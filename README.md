@@ -66,7 +66,7 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
 
 ---
 
-## 👥 Contributors
+## Contributors
 - 임예슬 (Project Leader, AI Model Design, App Design)  
 - 이지현 (App Design)  
 - 고훈준 (Research Paper Writing, Academic Publication)  
@@ -74,6 +74,6 @@ SafeAlert는 이러한 문제들을 해결하기 위해 설계되었습니다.
 
 ---
 
-## 📌 License
+## License
 이 프로젝트는 연구/학술적 목적을 위한 공개 저장소입니다.  
 상업적 활용 전에는 별도의 협의가 필요합니다.  
